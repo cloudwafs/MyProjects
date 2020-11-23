@@ -1,0 +1,1 @@
+java -jar Log4jPOC-1.0-jar-with-dependencies.jar
